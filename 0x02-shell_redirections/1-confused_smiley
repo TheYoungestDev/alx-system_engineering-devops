@@ -1,3 +1,2 @@
 #!/bin/bash
-
-smiley=""(Ôo)'"; echo "$smiley"
+echo "\"(Ôo)'"
