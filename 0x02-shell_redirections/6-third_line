@@ -1,0 +1,5 @@
+#!/bin/bash
+file="iacta"
+line_number=3
+
+awk "NR == $line_number" "$file"
