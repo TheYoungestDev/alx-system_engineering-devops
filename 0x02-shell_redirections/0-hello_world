@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 Hello World
+=======
+#!/bin/bashi
+Hello, World > /n 
+>>>>>>> ce8c679f636e7e56bc3adeb20d64cdd8597cade4
