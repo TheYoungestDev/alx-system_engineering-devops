@@ -1,2 +1,2 @@
 #!/bin/bash
-IFS=':' read -ra dirs <<< "$PATH" && echo "${#dirs[@]}"
+find -mindepth 1 -type d | wc -l
