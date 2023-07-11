@@ -1,2 +1,2 @@
 #!/bin/bash
-whoami | awk '{print "hello", $1}'
+user=$(whoami); echo "hello $user"
